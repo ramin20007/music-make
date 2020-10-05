@@ -1,0 +1,51 @@
+/***********************class edit ***************************/
+.top {background-color:#d2f6c5;
+  height: 600px;
+  width:100%;}
+.mid {background-color:  #f5dea3;
+  height: 600px;
+  width:100%;}
+.bot{background-color:#f8efd4;
+  height: 600px;
+  width: 100%;}
+.hb{height:400px;
+  width:400px;
+position: relative;
+left:1100px;
+top:130px;
+transform: rotate(90deg);}
+.gt{height:500px;
+position: relative;
+top:60;}
+.cu{margin:0;
+  text-align: center;
+position:relative;
+top:10px;
+font-family: 'Sansita Swashed', cursive;
+font-size:187.5%;
+color:#ac4b1c;}
+.tb{margin:0;
+  text-align: center;
+position:relative;
+top:10px;
+font-family: 'Sansita Swashed', cursive;
+font-size:187.5%;
+color:#ac4b1c;}
+
+
+/*************************tag edit************************/
+body{
+   margin:0;
+  }
+h1{margin:0;
+  text-align: center;
+position:relative;
+top:80px;
+font-family: 'Sansita Swashed', cursive;
+font-size:312.5%;
+color:#213e3b}
+p{text-align: center;
+  position:relative;
+  top:80px;
+font-family: 'Architects Daughter', cursive;
+font-size:110%;}
